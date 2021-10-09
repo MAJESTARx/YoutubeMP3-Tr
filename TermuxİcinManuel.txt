@@ -1,0 +1,15 @@
+Termux icin manuel yükleme komutları Satırları Tek tek kopyala yapıştır 
+
+termux-setup-storage
+pkg update && pkg upgrade
+pkg install python3
+pkg install pip && pkg install python3-pip
+pip3 install youtube-dl
+pkg apt-get install ffmpeg
+
+Müzik indikten sonra 
+
+mv "müzik ismi" /sdcard/Music
+
+
+ve müzik Dosyalarınızda Music Klasöründe 
